@@ -158,11 +158,13 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [ ] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
 
+
+
 ----
 
 
 ### Acknowledgments
 
-This tracker was designed by [Skynapse] (https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio") who was partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This tracker is modified from an original design by [Skynapse] (https://github.com/Syknapse/My-Learning-Tracker) who was partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
 

@@ -73,7 +73,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Introduction to Machine Learning]: https://cloudacademy.com/learning-paths/cloud-academy-introduction-to-machine-learning-on-aws-126/
 [Coding with Python Collection Types]: https://cloudacademy.com/lab/coding-python-collection-types/
 [Coding with Python Strings]: https://cloudacademy.com/lab/coding-python-strings/
-[Introduction to DevOps]: hhttps://cloudacademy.com/course/introduction-to-devops/results/?context_resource=lp&context_id=18
+[Introduction to DevOps]: https://cloudacademy.com/course/introduction-to-devops/results/?context_resource=lp&context_id=18
 [Basics of using Containers in Production]: https://cloudacademy.com/course/basics-of-using-containers-in-production/results/?context_resource=lp&context_id=48
 [Fundamentals of Webpage Development]: https://cloudacademy.com/course/fundamentals-of-web-page-development-part-1-discover/results/?context_resource=lp&context_id=2284
 [Beginners Guide to Machine Learning and AI]: https://cloudacademy.com/learning-paths/introduction-to-data-machine-learning-and-artificial-intelligence-1-1725/
@@ -105,7 +105,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [Beginners Guide to Machine Learning and AI]: https://cloudacademy.com/learning-paths/introduction-to-data-machine-learning-and-artificial-intelligence-1-1725/
 [Data Scientist with Python]: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
-[Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
+[Responsive Web Development]: https://www.freecodecamp.org/learn/responsive-web-design/
 [Introduction to Computer Science]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 

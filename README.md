@@ -81,6 +81,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Intermediate Python]: https://app.datacamp.com/learn/courses/intermediate-python
 [Basic HTML and HTML5]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
 [Introduction to Basic CSS]: https://www.freecodecamp.org/learn/responsive-web-design/basic-css/
+[Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
 [Introduction to HTML]: https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-html/v/making-webpages-intro
 [Data Scientist with Python]: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
 
@@ -98,14 +99,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 |:----------------------------------------------------------|:----------------------------:|
 | [Beginners Guide to Machine Learning and AI]              | [Cloud Academy]              |
 | [Data Scientist with Python]                              | [DataCamp]                   |
-| [Responsive Web Development]                              | [Free Code Camp]             |
+| [Responsive Web Design]                                   | [Free Code Camp]             |
 | [Introduction to Computer Science]                        | [HarvardX]                   |
 
 [//]: # (Reference links to paths)
 
 [Beginners Guide to Machine Learning and AI]: https://cloudacademy.com/learning-paths/introduction-to-data-machine-learning-and-artificial-intelligence-1-1725/
 [Data Scientist with Python]: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
-[Responsive Web Development]: https://www.freecodecamp.org/learn/responsive-web-design/
+[Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
 [Introduction to Computer Science]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 
 

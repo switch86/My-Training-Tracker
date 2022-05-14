@@ -18,6 +18,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Slack - Advanced Functions**    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**C**                             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**HTML**                          | ![done][done]     | ![done][done]          |                  |
 |**CSS**                           | ![done][done]     | ![done][done]          |                  |
 |**Accessibility**                 | ![done][done]     | ![done][done]          |                  |
@@ -102,12 +103,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 | [Responsive Web Design]                                   | [Free Code Camp]             |
 | [Introduction to Computer Science]                        | [HarvardX]                   |
 
-[//]: # (Reference links to paths)
+### Projects
+
+| Completed Projects                                 |  Course                                |
+|:---------------------------------------------------|:--------------------------------------:|
+| [Coding "Hello" using C]                           | [Introduction to Computer Science]     |
+| [Coding "Cash" using C]                            | [Introduction to Computer Science]     |
+| [Coding "Mario" using C]                           | [Introduction to Computer Science]     |
+
+[//]: # (Reference links to paths and projects )
 
 [Beginners Guide to Machine Learning and AI]: https://cloudacademy.com/learning-paths/introduction-to-data-machine-learning-and-artificial-intelligence-1-1725/
 [Data Scientist with Python]: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
 [Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
 [Introduction to Computer Science]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+[Coding Hello]: 
 
 
 [//]: # (Reference links to authors)
@@ -120,48 +130,13 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 ## Interests
 
-I'm currently interested in/excited about:
+I'm interested in/excited about:
 
 + Machine Learning
 + Data Science
 + Programming
-
-
++ Diversity Equity and Inclusion in tech spaces
 ----
-
-## Web Development Checklist
-
-This is a list of basic objectives to meet on the road to mastering web development.
-
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
-
-
-* [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
-* [x] Hide API keys from the public
-* [ ] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
-* [ ] Participate in a hackathon
-* [ ] Deploy a project
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
-
-
-
-----
-
 
 ### Acknowledgments
 

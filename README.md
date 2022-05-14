@@ -117,7 +117,6 @@ A complete log of my web development skills, learning, resources, highlights, in
 [Data Scientist with Python]: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python
 [Responsive Web Design]: https://www.freecodecamp.org/learn/responsive-web-design/
 [Introduction to Computer Science]: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-[Coding Hello]: 
 
 
 [//]: # (Reference links to authors)

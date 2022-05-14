@@ -2,7 +2,7 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[Portfolio](https://www.linkedin.com/in/noah-berlove-954b0027/ "Linked In") || [Blog](https://www.linkedin.com/in/noah-berlove-954b0027/ "Linked In")
+[Linked In](https://www.linkedin.com/in/berloven/ "Linked In") || [Linked In](https://www.linkedin.com/in/berloven/ "Linked In")
 
 ----
 
